@@ -1,2 +1,2 @@
 # leetcode
-leetcode prictice
+leetcode prictices
